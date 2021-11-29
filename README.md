@@ -3,7 +3,7 @@
 
 A simple To-Do-List-App, for an exercise to convert vanilla JavaScript code into jQuery. Converting this app was part of my [CF Full-Stack Web Development Programm](https://almanowski.github.io/to-do-list-app/).
 
-Live Demo [here](https://almanowski.github.io/pokedex-app/).
+Live Demo [here](https://almanowski.github.io/to-do-list-app/).
 
 
 
