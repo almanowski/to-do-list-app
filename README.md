@@ -3,12 +3,6 @@
 
 <p>&nbsp;</p>
 
-<p align="center">
-  <img src="./todolist.png" alt="App demo image"/>
-</p>
-
-<p>&nbsp;</p>
-
 A simple To-Do-List-App, for an exercise to convert vanilla JavaScript code into jQuery. Converting this app was part of my [CF Full-Stack Web Development Program](https://almanowski.github.io/to-do-list-app/).
 
 Live Demo [here](https://almanowski.github.io/to-do-list-app/).
